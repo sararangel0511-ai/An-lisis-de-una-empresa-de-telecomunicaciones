@@ -1,5 +1,4 @@
-# 📊 Análisis de Datos ConnectaTel: México & Colombia
-
+# 📊 Análisis de Datos ConnectaTel
 ## 🎯 Objetivo del Proyecto
 Transformar datos crudos de consumo y perfiles de usuarios en conclusiones accionables para optimizar la oferta comercial y mejorar la retención de clientes de **ConnectaTel**. El enfoque principal es la segmentación estratégica y la limpieza de datos técnicos.
 
